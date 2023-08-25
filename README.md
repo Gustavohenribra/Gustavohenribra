@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Motta</h1>
 <h3 align="center">A passionate Backend developer from Brazil</h3>
-<img align="right" alt="Coding" width="200" src="https://imgur.com/0R5SleA">
+<img align="right" alt="Coding" width="200" src="https://i.imgur.com/0R5SleA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohenribra&label=Profile%20views&color=0e75b6&style=flat" alt="gustavohenribra" /> </p>
 
