@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portifolio-gustavohenribra.vercel.app/](https://portifolio-gustavohenribra.vercel.app/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python/Java**
 
 - 📫 How to reach me **gustavohenriquebm7@outlook.com**
 
