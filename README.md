@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gustavohenriquebm7@outlook.com**
 
-- 📄 Know about my experiences [---here---]([https://drive.google.com/u/1/uc?id=1Rr6q3hN_hW-YzOLTyJk9fiG4ZWP1Rlj0&export=download](https://drive.google.com/u/1/uc?id=1Nqo8K50McGLwz3TUZ7-ZVUth_93PY0Xw&export=download))
+- 📄 Know about my experiences [---here---]([https://drive.google.com/u/1/uc?id=1Nqo8K50McGLwz3TUZ7-ZVUth_93PY0Xw&export=download])
 
 - ⚡ Fun fact **I really enjoy programming**
 
