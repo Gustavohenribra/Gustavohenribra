@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohenribra&show_icons=true&locale=en&layout=compact" alt="gustavohenribra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohenribra&show_icons=true&locale=en" alt="gustavohenribra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavohenribra&" alt="gustavohenribra" /></p>
