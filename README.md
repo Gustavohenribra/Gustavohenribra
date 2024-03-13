@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohenribra&label=Profile%20views&color=0e75b6&style=flat" alt="gustavohenribra" /> </p>
 
-- 🔭 I’m currently working on **automation projects**
+- 🔭 I’m currently working on **Sitcon**
 
-- 🌱 I’m currently learning **Java and M.L**
+- 🌱 I’m currently learning **Test-Driven Development **
 
 - 👨‍💻 All of my projects are available at [https://portifolio-gustavohenribra.vercel.app/](https://portifolio-gustavohenribra.vercel.app/)
 
