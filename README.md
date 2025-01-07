@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Test-Driven Development **
 
-- 👨‍💻 All of my projects are available at [https://portifolio-gustavohenribra.vercel.app/](https://portifolio-gustavohenribra.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portifolio-gustavohenribra.vercel.app/](https://portifolio-gustavo-motta.vercel.app)
 
 - 📫 How to reach me **gustavohenriquebm7@outlook.com**
 
